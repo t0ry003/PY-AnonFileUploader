@@ -1,5 +1,4 @@
-# By t0ry03
-# Simple python script for uploading files on anonfiles
+# Simple python script for uploading files on anonfiles by tory#3784
 
 import requests
 import sys
